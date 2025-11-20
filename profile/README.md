@@ -1,7 +1,7 @@
 # InvaPact China Code & Data
 <img align="right" src="https://github.com/invapact-china/.github/blob/main/profile/www/InvaPact%20logo-transp.png" alt="InvaPact logo-transp.png" width="250" style="margin-top: 20px">
 
-This is the China organisation page for InvaPact code and data, formalised at <a href="https://www.biodiversitydynamics.fr/invapact3links/">InvaPact IV</a> (Beijing, China) from 24-26 November 2025. The organisation page consolidates synthesis code and data repositories for analysing the <em>InvaPact</em> database. 
+This is the China organisation page for InvaPact code and data, formalised at <a href="https://www.biodiversitydynamics.fr/invapact3links/">InvaPact IV</a> (Beijing, China) from 24-27 November 2025. The organisation page consolidates synthesis code and data repositories for analysing the <em>InvaPact</em> database. 
 
 <p align="center">🦟 🐜 🌿 🐀 🐍 🐇 🐛 🐈‍⬛ </p>
 
